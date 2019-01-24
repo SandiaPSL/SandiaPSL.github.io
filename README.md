@@ -1,6 +1,5 @@
 # Uncertainty Calculator
-## Primary Standards Lab
-### Sandia National Laboratories
+## Primary Standards Lab, Sandia National Laboratories
 
 The PSL Uncertainty Calculator is developed by the Primary Standards Lab at Sandia National Laboratories to calculate the combined uncertainty of a system of multiple input parameters.
 
