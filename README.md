@@ -1,6 +1,6 @@
 # Uncertainty Calculator
-
-## Primary Standards Lab, Sandia National Laboratories
+## Primary Standards Lab
+### Sandia National Laboratories
 
 The PSL Uncertainty Calculator is developed by the Primary Standards Lab at Sandia National Laboratories to calculate the combined uncertainty of a system of multiple input parameters.
 
@@ -26,3 +26,10 @@ Download binaries for Windows and Mac OSX, along with a user manual and some usa
 ![Curve Fitting](/img/curvefit.png)
 
 ![Risk Analysis](/img/risk.png)
+
+
+### License and Copyright
+
+Copyright 2019 National Technology & Engineering Solutions of Sandia, LLC (NTESS). Under the terms of Contract DE-NA0003525 with NTESS, the U.S. Government retains certain rights in this software.
+
+This software is distributed under the GNU General Public License.
