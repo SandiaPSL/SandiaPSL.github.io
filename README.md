@@ -1,7 +1,7 @@
-# Uncertainty Calculator
+# Suncal
 ## Primary Standards Lab, Sandia National Laboratories
 
-The PSL Uncertainty Calculator is developed by the Primary Standards Lab at Sandia National Laboratories to calculate the combined uncertainty of a system of multiple input parameters.
+The Sandia Uncertainty Calculator (Suncal) is developed by the Primary Standards Lab at Sandia National Laboratories to calculate the combined uncertainty of a system of multiple input parameters.
 
 In general, a measurement value is calculated from a function of several input measurements: Y = f(x1, x2, x3...).
 Each input X value has a measured value and associated uncertainty.
@@ -11,9 +11,13 @@ Two approaches are used, the Kline-McClintock uncertainty approximation as descr
 Other features include risk analysis (probability of false accept and reject), analysis of variance, and finding uncertainty in curve fitting.
 
 
-### Download
+### Desktop version
 
 Download binaries for Windows and Mac OSX, along with a user manual and some usage examples, from the [Latest Release](https://github.com/SandiaPSL/UncertaintyCalc/releases/latest) page.
+
+### Online version
+
+Some features of Suncal may be run through the [Web Interface to Suncal](suncalweb.md), an online interface without any download or installation required.
 
 
 ### Screenshots
@@ -29,6 +33,6 @@ Download binaries for Windows and Mac OSX, along with a user manual and some usa
 
 ### License and Copyright
 
-Copyright 2019 National Technology & Engineering Solutions of Sandia, LLC (NTESS). Under the terms of Contract DE-NA0003525 with NTESS, the U.S. Government retains certain rights in this software.
+Copyright 2019-2021 National Technology & Engineering Solutions of Sandia, LLC (NTESS). Under the terms of Contract DE-NA0003525 with NTESS, the U.S. Government retains certain rights in this software.
 
 This software is distributed under the GNU General Public License.
