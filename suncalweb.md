@@ -6,6 +6,7 @@ The Suncal Web interface provides these tools:
 - [Risk Basic](https://mybinder.org/v2/gh/SandiaPSL/suncal-web/HEAD?urlpath=voila%2Frender%2FRisk%20Basic.ipynb): Basic measurement decision risk given in-tolerance probability, test uncertainty ratio, and guardbanding.
 - [Risk Advanced](https://mybinder.org/v2/gh/SandiaPSL/suncal-web/HEAD?urlpath=voila%2Frender%2FRisk%20Advanced.ipynb): Advanced measurement decision risk given any probability distribution.
 - [Risk Curves](https://mybinder.org/v2/gh/SandiaPSL/suncal-web/HEAD?urlpath=voila%2Frender%2FRisk%20Curves.ipynb): Plot measurement decision risk over a range of values of TUR, ITP, and guardband
+- [Distribution Explorer](https://mybinder.org/v2/gh/SandiaPSL/suncal-web/HEAD?urlpath=voila%2Frender%2FDistribution%20Explorer.ipynb): Generate random samples and perform Monte Carlo evaluations on various probability distributions
 - [Student T Table](https://mybinder.org/v2/gh/SandiaPSL/suncal-web/HEAD?urlpath=voila%2Frender%2FStudent%20T%20Table.ipynb): Calculate coverage factors, level of confidence, and degrees of freedom using Student T distribution
 - [Units Converter](https://mybinder.org/v2/gh/SandiaPSL/suncal-web/HEAD?urlpath=voila%2Frender%2FUnits%20Converter.ipynb): Experiment with units supported by Suncal
 
