@@ -13,11 +13,11 @@ Other features include risk analysis (probability of false accept and reject), a
 
 ### Desktop version
 
-Download binaries for Windows and Mac OSX, along with a user manual and some usage examples, from the [Latest Release](https://github.com/SandiaPSL/UncertaintyCalc/releases/latest) page.
+Download binaries for Windows and Mac OSX, along with a user manual and some usage examples, from the [Latest Release](https://github.com/sandialabs/suncal/releases/latest) page.
 
 ### Online version
 
-Some features of Suncal may be run through the [Web Interface to Suncal](suncalweb.md), an online interface without any download or installation required.
+Some features of Suncal may be run through the [Web Interface to Suncal](https://sandialabs.github.io/suncal/suncal/index.html), an online interface without any download or installation required.
 
 
 ### Screenshots
@@ -31,8 +31,13 @@ Some features of Suncal may be run through the [Web Interface to Suncal](suncalw
 ![Risk Analysis](/img/risk.png)
 
 
+### Issues
+
+Please report any issues on the [issue tracker](https://github.com/sandialabs/suncal/issues).
+
+
 ### License and Copyright
 
-Copyright 2019-2021 National Technology & Engineering Solutions of Sandia, LLC (NTESS). Under the terms of Contract DE-NA0003525 with NTESS, the U.S. Government retains certain rights in this software.
+Copyright 2019-2023 National Technology & Engineering Solutions of Sandia, LLC (NTESS). Under the terms of Contract DE-NA0003525 with NTESS, the U.S. Government retains certain rights in this software.
 
 This software is distributed under the GNU General Public License.
