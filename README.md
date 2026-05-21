@@ -19,6 +19,11 @@ Download binaries for Windows and Mac OSX, along with a user manual and some usa
 
 Some features of Suncal may be run through the [Web Interface to Suncal](https://sandialabs.github.io/suncal/suncal/index.html), an online interface without any download or installation required.
 
+### Excel Spreadsheets
+
+With recent updates to Microsoft Excel, many of the Suncal functions are now possible within a spreadsheet.
+The [spreadsheets here](https://sandialabs.github.io/suncal/excel/index.html) have been created for calculating GUM and Monte Carlo uncertianty, curve fit uncertainty, measurement decision risk, and calibration intervals.
+
 
 ### Screenshots
 
